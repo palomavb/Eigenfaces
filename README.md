@@ -10,3 +10,4 @@ A segunda parte consiste em aplicar tal algoritmo em uma base de dados de imagen
 
 ## Fontes e referências consultadas durante a realização do trabalho:
 - http://clyde.dr.ufu.br/bitstream/123456789/22158/3/ReconhecimentoFacialAlgotimos.pdf - embasamento da técnica eigenfaces
+- https://docs.python.org/3/library/zipfile.html#zipfile-objects - para abrir arquivos zipados
