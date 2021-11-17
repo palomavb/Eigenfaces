@@ -13,3 +13,4 @@ A segunda parte consiste em aplicar tal algoritmo em uma base de dados de imagen
 - https://docs.python.org/3/library/zipfile.html#zipfile-objects - para abrir arquivos zipados
 - https://docs.opencv.org/4.x/db/deb/tutorial_display_image.html - para abrir imagens, convertendo-as e matrizes
 - https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html - para o PCA
+- https://machinelearningmastery.com/face-recognition-using-principal-component-analysis/ - base para o código
